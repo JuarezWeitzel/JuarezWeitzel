@@ -2,7 +2,7 @@
 
 👨‍💻 My name is Juarez and I'm a technology enthusiast passionate about software development.
 
-🎓 I am a dedicated professional and passionate about technology, always looking to learn and improve my skills. I'm currently studying Angular and Python, exploring applications in web development and task automation.
+🎓 I am a dedicated professional and passionate about technology, always looking to learn and improve my skills. I'm currently studying Python, exploring applications in web development and task automation.
 
 🚀 I'm always on the lookout for new challenges and opportunities to grow professionally. I'm proactive, collaborative, and always open to learning from others and sharing my knowledge.
 

@@ -4,7 +4,7 @@
 
 🎯 Objective: To contribute to optimizing public service by developing intuitive interfaces and enhancing the front-end using React Native, as well as React for web.
 
-🛠️ Mastered Technologies: React Hooks 🎣, React.js ⚛️, Context API 🔄, PHP 🐘, Styled-Components 💅, HTML 🌐, Tailwind CSS 🌀, CSS 🎨, MySQL 🗃️, React Native 📱.
+🛠️ Mastered Technologies: React.js ⚛️, React Native 📱, React Hooks 🎣, Context API 🔄, PHP 🐘, Styled-Components 💅, HTML 🌐, Tailwind CSS 🌀, CSS 🎨, MySQL 🗃️.
 
 🚀 About Me: I'm driven by challenges and motivated by a constant pursuit of learning and professional growth. Fluent in React and its related technologies, I'm always eager to tackle new challenges and collaborate on innovative and challenging projects.
 
